@@ -1,0 +1,16 @@
+body{
+	background: wheat;
+	margin: 100px;
+}
+header{
+	text-align: center;
+}
+.headAll{
+	color: orange;
+}
+p{
+	color: black;
+}
+span{
+	color: black;
+}

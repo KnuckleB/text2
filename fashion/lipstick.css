@@ -1,0 +1,28 @@
+input[type=text], input[type=password], textarea{
+    width: 45%;
+    height: 20px;
+    margin-left: 110px;
+    display: flex;
+}
+form{
+    background-color: darkred;
+    margin: auto;
+    padding-left: 40px;
+    width: auto;
+    height: fit-content;
+}
+body{
+    background-color: red;
+}
+
+button{
+    height: 50px;
+    width: 500px;
+    margin-left: 50px;
+}
+#gender{
+    display: flex;
+}
+.division9{
+    margin-left: 60px;
+}

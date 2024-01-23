@@ -1,0 +1,32 @@
+input[type=text], input[type=date]{
+width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+form {
+    background-color: deepskyblue;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+    text-underline: black;
+}
+button {
+    width: 100px;
+    height: 40px;
+    margin-left: 170px;
+    border-radius: 10px;
+}
+div{
+    padding-left: 30px;
+    margin-left: 50px;
+}
+
+
+
+

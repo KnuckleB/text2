@@ -1,0 +1,17 @@
+table,th,td{
+            border: 2px solid black;
+        }
+        table{
+            width: 50%;
+            height:300px;
+            color: black;
+            margin-left: 60px;
+            margin-top: 30px;
+            background-color: white;
+        }
+        th{
+        }
+        img{
+            width: 70x;
+            height: 70px;
+        }
